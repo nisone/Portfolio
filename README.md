@@ -1,2 +1,2 @@
 # nuhu_portfolio
-https://this-is-nuhu.web.app
+https://this-is-nuhu.vercel.app/
